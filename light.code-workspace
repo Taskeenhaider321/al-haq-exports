@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../SeppoHTML/TEMPLATE"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "light"
+	}
+}
